@@ -1,24 +1,51 @@
 body {
   font-family: Karla;
+  color: black;
+  background-color: #fff;
 }
 
 h1 {
   font-family: Kanit;
-  font-weight: 400;
+  font-weight: 800;
   font-size: 8rem;
 }
 
+h2 {
+  font-size: 12rem;
+  font-weight: 800;
+  text-align:center;
+  font-family: Kanit;
+  background: linear-gradient(to right, #ffc3d0 , #b5c7fa);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
 p {
   color: #757575;
+}
+
+.mase-logo {
+  font-family: Kanit;
+  font-weight: 400;
+  text-align:center;
+  padding-top: 1%;
 }
 
 .title {
   padding-top: 10%;
 }
-.cphgames {
 
+.sub-text {
+  font-size: 1.5rem;
+  color: #757575;
 }
 
+.spacer {
+  padding-top: 5%;
+}
+
+.spacer-image {
+  padding-top: 50%;
+}
 .r6s {
 
 }
