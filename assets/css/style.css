@@ -23,6 +23,11 @@ p {
   color: #757575;
 }
 
+.right {
+  text-align: right;
+  text-align: inline;
+}
+
 .mase-logo {
   font-family: Kanit;
   font-weight: 400;
@@ -31,7 +36,7 @@ p {
 }
 
 .title {
-  padding-top: 10%;
+  padding-top: 7%;
 }
 
 .sub-text {
@@ -39,8 +44,19 @@ p {
   color: #757575;
 }
 
+.cphgames-text {
+  color: black;
+}
 .spacer {
   padding-top: 5%;
+}
+
+.spacer-cphgames {
+  padding-top: 5%;
+}
+
+.spacer-r6s {
+  padding-top: 40%;
 }
 
 .spacer-image {
