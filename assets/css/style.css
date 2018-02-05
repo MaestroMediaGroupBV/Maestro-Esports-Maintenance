@@ -40,7 +40,7 @@ p {
 }
 
 .sub-text {
-  font-size: 1.5rem;
+  font-size: 1.4rem;
   color: #757575;
 }
 
@@ -69,7 +69,7 @@ a:hover img {
     box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
 }
 .spacer {
-  padding-top: 5%;
+  padding-top: 3%;
 }
 
 .spacer-cphgames {
