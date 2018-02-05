@@ -44,8 +44,29 @@ p {
   color: #757575;
 }
 
-.cphgames-text {
+.image-text {
   color: black;
+  font-size: 1.2rem;
+  font-weight: 400;
+}
+
+a img {
+    -webkit-transition: -webkit-transform 0.3s ease;
+    -moz-transition: -moz-transform 0.3s ease;
+    -o-transition: -o-transform 0.3s ease;
+    transition: transform 0.3s ease;
+}
+
+a:hover img {
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    transform: scale(1.1);
+
+    -webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
+    -moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
+    -o-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
 }
 .spacer {
   padding-top: 5%;
@@ -56,7 +77,7 @@ p {
 }
 
 .spacer-r6s {
-  padding-top: 40%;
+  padding-top: 5%;
 }
 
 .spacer-image {
