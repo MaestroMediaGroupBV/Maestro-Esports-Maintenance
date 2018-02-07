@@ -55,6 +55,7 @@ a img {
     -moz-transition: -moz-transform 0.3s ease;
     -o-transition: -o-transform 0.3s ease;
     transition: transform 0.3s ease;
+    cursor: default;
 }
 
 a:hover img {
@@ -62,6 +63,7 @@ a:hover img {
     -moz-transform: scale(1.1);
     -o-transform: scale(1.1);
     transform: scale(1.1);
+    cursor: default;
 
     -webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
     -moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
