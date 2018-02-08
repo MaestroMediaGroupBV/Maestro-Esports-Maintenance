@@ -5,9 +5,9 @@ body {
 }
 
 h1 {
-  font-family: Kanit;
+  font-family: Karla;
   font-weight: 800;
-  font-size: 8rem;
+  font-size: 13vh;
 }
 
 h2 {
@@ -39,6 +39,12 @@ p {
   padding-top: 7%;
 }
 
+.end-title {
+  font-family: Karla;
+  font-weight: 800;
+  font-size: 13vh;
+  text-align: right;
+}
 .sub-text {
   font-size: 1.4rem;
   color: #757575;
@@ -50,6 +56,10 @@ p {
   font-weight: 400;
 }
 
+footer-text {
+  color: #757575;
+  font-weight:400;
+}
 a img {
     -webkit-transition: -webkit-transform 0.3s ease;
     -moz-transition: -moz-transform 0.3s ease;
@@ -70,6 +80,12 @@ a:hover img {
     -o-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
     box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
 }
+
+.social-link {
+  color: #404040;
+  line-height: 1.5;
+}
+
 .spacer {
   padding-top: 3%;
 }
