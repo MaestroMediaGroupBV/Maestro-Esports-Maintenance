@@ -15,8 +15,18 @@ body {
   height: 100vh;
 }
 
+h1 {
+  color:white
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 10px;
+  font-size: 3rem;
+  margin-bottom: 5rem;
+  font-family: Karla;
+}
 p {
   color: white;
+  font-size: 40px;
 }
 
 #name {
@@ -24,4 +34,16 @@ p {
   display: inline-block;
   font-size: 1.5rem;
   font-family: Karla;
+}
+
+.spacer {
+  padding-top: 25%;
+}
+
+.spacer-text {
+  padding-top: 1%;
+}
+
+.text {
+
 }
