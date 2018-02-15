@@ -26,13 +26,16 @@ h1 {
 }
 p {
   color: white;
-  font-size: 40px;
+  font-size: 20px;
 }
 
+li {
+  list-style-type: none;
+}
 #name {
   color: white;
   display: inline-block;
-  font-size: 1.5rem;
+  font-size: 1.55rem;
   font-family: Karla;
 }
 
@@ -46,6 +49,11 @@ p {
 
 .text {
 
+}
+
+.social-link {
+  color: #404040;
+  line-height: 1.5;
 }
 
 .btn-default {
@@ -68,4 +76,28 @@ p {
   font-weight: 500;
   text-transform: uppercase;
   border-radius: 40px;
+}
+
+a:hover {
+  color: white;
+  text-decoration: none;
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
+
+a:active {
+    color: white;
+}
+
+.footer-text {
+  position: absolute;
+ bottom: 0px;
+ color: white;
+
 }
