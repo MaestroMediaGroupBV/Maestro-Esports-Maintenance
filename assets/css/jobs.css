@@ -1,0 +1,40 @@
+body {
+  font-family: Karla;
+  color: black;
+}
+
+p {
+  line-height: 1.6;
+  font-size: 20px;
+  color: #495561;
+}
+h1 {
+  color: white;
+  font-size: 2.4rem;
+}
+
+.title {
+  text-transform: uppercase;
+}
+.navbar-brand {
+  color: black;
+  font-size: 2rem;
+}
+#name {
+  color: grey;
+  font-size: 1.7rem;
+  display: inline-block;
+}
+
+.jumbotron {
+  background-image: url(..img/jobs/);
+  background-size: cover;
+}
+
+.jumbotron-fluid {
+
+}
+
+line {
+
+}
