@@ -5,13 +5,17 @@ body {
 
 p {
   line-height: 1.6;
-  font-size: 20px;
+  font-size: 17px;
   color: #495561;
 }
 
 h1 {
   color: white;
   font-size: 2.4rem;
+}
+
+li {
+  color: black;
 }
 
 .title {
@@ -30,6 +34,10 @@ h1 {
 .jobs {
   font-size: 1.5rem;
   color: black;
+}
+
+.apply {
+  text-align: center;
 }
 
 .jumbotron {
