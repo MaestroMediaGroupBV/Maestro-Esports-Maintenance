@@ -21,6 +21,13 @@ li {
 .title {
   text-transform: uppercase;
 }
+
+line {
+  border-bottom:3px solid black;
+  border-image-source: linear-gradient(to right, #ffc3d0 , #b5c7fa);
+  border-image-slice: 20;
+ }
+
 .navbar-brand {
   color: black;
   font-size: 2rem;
@@ -40,8 +47,16 @@ li {
   text-align: center;
 }
 
+.cover {
+  background-image: url(../img/jobs/jobs.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height:65vh;
+}
+
 .jumbotron {
-  background-image: url(..img/jobs/);
+
   background-size: cover;
 }
 
@@ -63,4 +78,25 @@ line {
 .card-header {
   background-color: #ffffff;
   border-bottom: none;
+}
+
+a:hover {
+  color: #495561;
+  text-decoration: none;
+}
+
+a:link {
+    color: #495561;
+}
+
+a:visited {
+    color: #495561;
+}
+
+a:active {
+    color: #495561;
+}
+
+.footer-text {
+ bottom: 0px;
 }
