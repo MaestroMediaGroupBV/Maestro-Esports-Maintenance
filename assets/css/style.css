@@ -1,0 +1,136 @@
+body {
+  font-family: Karla;
+  color: black;
+  background-color: #fff;
+}
+
+.canvas-wrapper {
+  width:100%;
+}
+#canvas{
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+h1 {
+  font-family: Karla;
+  font-weight: 800;
+  font-size: 13vh;
+}
+
+h2 {
+  font-size: 12rem;
+  font-weight: 800;
+  text-align:center;
+  font-family: Kanit;
+  background: linear-gradient(to right, #ffc3d0 , #b5c7fa);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+p {
+  color: #757575;
+}
+
+.right {
+  text-align: right;
+  text-align: inline;
+}
+
+.mase-logo {
+  font-family: Kanit;
+  font-weight: 400;
+  text-align:center;
+  padding-top: 1%;
+}
+
+.title {
+  padding-top: 7%;
+}
+
+.end-title {
+  font-family: Karla;
+  font-weight: 800;
+  font-size: 13vh;
+  text-align: right;
+}
+.sub-text {
+  font-size: 1.4rem;
+  color: #757575;
+}
+
+.image-text {
+  color: black;
+  font-size: 1.2rem;
+  font-weight: 400;
+}
+
+footer-text {
+  color: #757575;
+  font-weight:400;
+}
+a img {
+    -webkit-transition: -webkit-transform 0.3s ease;
+    -moz-transition: -moz-transform 0.3s ease;
+    -o-transition: -o-transform 0.3s ease;
+    transition: transform 0.3s ease;
+    cursor: default;
+}
+
+a:hover img {
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    transform: scale(1.1);
+    cursor: default;
+
+    -webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
+    -moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
+    -o-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
+}
+
+.social-link {
+  color: #404040;
+  line-height: 1.5;
+}
+
+.social-link:hover {
+  color: #404040;
+  -webkit-transform: scale(2);
+    -ms-transform: scale(2);
+    transform: scale(2);
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+}
+.spacer {
+  padding-top: 3%;
+}
+
+.spacer-cphgames {
+  padding-top: 5%;
+}
+
+.spacer-r6s {
+  padding-top: 5%;
+}
+
+.spacer-image {
+  padding-top: 50%;
+}
+.r6s {
+
+}
+
+.gomaestro {
+
+}
+
+.streamers {
+
+}
+.benelux {
+
+}

@@ -1,0 +1,102 @@
+body {
+  font-family: Karla;
+  color: black;
+}
+
+p {
+  line-height: 1.6;
+  font-size: 17px;
+  color: #495561;
+}
+
+h1 {
+  color: white;
+  font-size: 2.4rem;
+}
+
+li {
+  color: black;
+}
+
+.title {
+  text-transform: uppercase;
+}
+
+line {
+  border-bottom:3px solid black;
+  border-image-source: linear-gradient(to right, #ffc3d0 , #b5c7fa);
+  border-image-slice: 20;
+ }
+
+.navbar-brand {
+  color: black;
+  font-size: 2rem;
+}
+#name {
+  color: grey;
+  font-size: 1.7rem;
+  display: inline-block;
+}
+
+.jobs {
+  font-size: 1.5rem;
+  color: black;
+}
+
+.apply {
+  text-align: center;
+}
+
+.cover {
+  background-image: url(../img/jobs/2.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height:65vh;
+}
+
+.jumbotron {
+
+  background-size: cover;
+}
+
+.jumbotron-fluid {
+
+}
+
+line {
+
+}
+
+.card {
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+  background-color: #ffffff;
+}
+
+.card-header {
+  background-color: #ffffff;
+  border-bottom: none;
+}
+
+a:hover {
+  color: #495561;
+  text-decoration: none;
+}
+
+a:link {
+    color: #495561;
+}
+
+a:visited {
+    color: #495561;
+}
+
+a:active {
+    color: #495561;
+}
+
+.footer-text {
+ bottom: 0px;
+}

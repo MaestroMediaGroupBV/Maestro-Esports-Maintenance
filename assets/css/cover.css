@@ -1,0 +1,103 @@
+body {
+  font-family: Karla;
+  color: white;
+  background-image: url(../img/cover/cover.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+}
+
+.wrapper {
+  background: rgba(48, 53, 70, 0.5);
+  width: 100vw;
+  height: 100vh;
+}
+
+h1 {
+  color:white
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 10px;
+  font-size: 3rem;
+
+  font-family: Karla;
+}
+p {
+  color: white;
+  font-size: 20px;
+}
+
+li {
+  list-style-type: none;
+}
+#name {
+  color: white;
+  display: inline-block;
+  font-size: 1.55rem;
+  font-family: Karla;
+}
+
+.spacer {
+  padding-top: 25%;
+}
+
+.spacer-text {
+  padding-top: 1%;
+}
+
+.text {
+
+}
+
+.social-link {
+  color: #404040;
+  line-height: 1.5;
+}
+
+.btn-default {
+  color: #fff;
+  text-shadow: none;
+  background-color: transparent;
+  border-radius: 20px;
+  border: 1px solid white;
+  display:inline-block;
+  padding: 0.5rem 2rem;
+}
+
+.btn-default:hover,
+.btn-default:focus {
+  background-color: rgba(255, 255, 255, 0.3);
+}
+
+.btn-style {
+  padding: 10px 60px;
+  font-weight: 500;
+  text-transform: uppercase;
+  border-radius: 40px;
+}
+
+a:hover {
+  color: white;
+  text-decoration: none;
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
+
+a:active {
+    color: white;
+}
+
+.footer-text {
+  position: absolute;
+ bottom: 0px;
+ color: white;
+
+}
