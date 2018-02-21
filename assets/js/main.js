@@ -50,7 +50,7 @@ $(function(){
 function Point( x, y, color, radius ) {
   this.x = x;
   this.y = y;
-  this.color = "rgb("+parseInt(Math.random()*255, 10)+",77,194)";
+  this.color = "rgb("+parseInt(Math.random()*255, 10)+",255,255)";
   this.radius = radius || Settings.pointRadius;
 }
 Point.prototype.draw = function( context ){
