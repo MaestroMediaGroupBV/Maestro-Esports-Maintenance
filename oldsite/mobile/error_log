@@ -1,0 +1,877 @@
+[28-Dec-2017 00:11:06 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 00:11:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 222
+[28-Dec-2017 00:11:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 224
+[28-Dec-2017 00:17:13 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 00:17:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 222
+[28-Dec-2017 00:17:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 224
+[28-Dec-2017 00:21:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 00:21:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 222
+[28-Dec-2017 00:21:17 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 224
+[28-Dec-2017 00:23:32 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 00:23:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 222
+[28-Dec-2017 00:23:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 224
+[28-Dec-2017 00:23:51 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 00:23:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 222
+[28-Dec-2017 00:23:51 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 224
+[28-Dec-2017 00:24:20 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 00:24:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 222
+[28-Dec-2017 00:24:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 224
+[28-Dec-2017 00:24:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 00:24:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 222
+[28-Dec-2017 00:24:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 224
+[28-Dec-2017 00:27:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 00:27:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 222
+[28-Dec-2017 00:27:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 224
+[28-Dec-2017 00:28:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 00:28:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 222
+[28-Dec-2017 00:28:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 224
+[28-Dec-2017 00:29:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 00:29:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 222
+[28-Dec-2017 00:29:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 224
+[28-Dec-2017 00:32:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 00:32:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 222
+[28-Dec-2017 00:32:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 224
+[28-Dec-2017 00:32:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 00:32:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 222
+[28-Dec-2017 00:32:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 224
+[28-Dec-2017 00:37:35 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 00:37:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 222
+[28-Dec-2017 00:37:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 224
+[28-Dec-2017 00:40:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 00:40:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 222
+[28-Dec-2017 00:40:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 224
+[28-Dec-2017 00:46:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 00:46:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 222
+[28-Dec-2017 00:46:25 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 224
+[28-Dec-2017 00:50:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 00:50:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 222
+[28-Dec-2017 00:50:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 224
+[28-Dec-2017 00:52:50 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 00:52:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 222
+[28-Dec-2017 00:52:50 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 224
+[28-Dec-2017 01:05:57 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 01:05:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 220
+[28-Dec-2017 01:05:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 222
+[28-Dec-2017 01:06:26 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 01:06:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 220
+[28-Dec-2017 01:06:26 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 222
+[28-Dec-2017 01:08:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 01:08:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 219
+[28-Dec-2017 01:08:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 221
+[28-Dec-2017 01:12:06 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 01:12:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 218
+[28-Dec-2017 01:12:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 220
+[28-Dec-2017 01:19:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 01:19:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 218
+[28-Dec-2017 01:19:25 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 220
+[28-Dec-2017 01:20:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 01:20:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 218
+[28-Dec-2017 01:20:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 220
+[28-Dec-2017 01:20:26 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 01:20:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 218
+[28-Dec-2017 01:20:26 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 220
+[28-Dec-2017 01:22:49 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 01:22:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 218
+[28-Dec-2017 01:22:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 220
+[28-Dec-2017 01:24:18 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 01:24:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 218
+[28-Dec-2017 01:24:18 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 220
+[28-Dec-2017 01:31:16 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 01:31:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 218
+[28-Dec-2017 01:31:16 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 220
+[28-Dec-2017 01:32:05 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 01:32:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 218
+[28-Dec-2017 01:32:05 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 220
+[28-Dec-2017 01:33:16 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 01:33:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 218
+[28-Dec-2017 01:33:16 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 220
+[28-Dec-2017 11:27:29 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 11:27:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 218
+[28-Dec-2017 11:27:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 220
+[28-Dec-2017 11:45:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 11:45:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 218
+[28-Dec-2017 11:45:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 220
+[28-Dec-2017 11:59:00 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 11:59:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 218
+[28-Dec-2017 11:59:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 220
+[28-Dec-2017 12:02:57 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 12:02:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 218
+[28-Dec-2017 12:02:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 220
+[28-Dec-2017 12:04:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 12:04:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 218
+[28-Dec-2017 12:04:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 220
+[28-Dec-2017 12:11:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 12:11:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[28-Dec-2017 12:11:25 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 212
+[28-Dec-2017 12:29:27 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 12:29:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[28-Dec-2017 12:29:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 212
+[28-Dec-2017 12:33:26 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 12:33:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[28-Dec-2017 12:33:26 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 212
+[28-Dec-2017 12:37:11 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 12:37:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[28-Dec-2017 12:37:11 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 212
+[28-Dec-2017 12:42:47 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 12:42:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 211
+[28-Dec-2017 12:42:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 213
+[28-Dec-2017 13:44:12 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 13:44:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 211
+[28-Dec-2017 13:44:12 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 213
+[28-Dec-2017 15:23:09 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 15:23:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 213
+[28-Dec-2017 15:23:09 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 215
+[28-Dec-2017 15:26:27 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 15:26:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 213
+[28-Dec-2017 15:26:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 215
+[28-Dec-2017 15:27:44 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 15:27:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 213
+[28-Dec-2017 15:27:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 215
+[28-Dec-2017 15:29:04 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 15:29:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 213
+[28-Dec-2017 15:29:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 215
+[28-Dec-2017 15:31:28 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 15:31:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 213
+[28-Dec-2017 15:31:28 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 215
+[28-Dec-2017 15:32:58 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 15:32:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 216
+[28-Dec-2017 15:32:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 218
+[28-Dec-2017 15:37:19 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 15:37:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 216
+[28-Dec-2017 15:37:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 218
+[28-Dec-2017 15:40:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 15:40:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 216
+[28-Dec-2017 15:40:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 218
+[28-Dec-2017 15:40:42 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 15:40:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 216
+[28-Dec-2017 15:40:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 218
+[28-Dec-2017 15:44:18 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 15:44:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 222
+[28-Dec-2017 15:44:18 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 224
+[28-Dec-2017 15:45:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 15:45:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 222
+[28-Dec-2017 15:45:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 224
+[28-Dec-2017 15:47:16 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 15:47:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 222
+[28-Dec-2017 15:47:16 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 224
+[28-Dec-2017 15:48:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 15:48:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 222
+[28-Dec-2017 15:48:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 224
+[28-Dec-2017 15:48:49 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 15:48:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 222
+[28-Dec-2017 15:48:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 224
+[28-Dec-2017 15:56:05 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 15:56:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 222
+[28-Dec-2017 15:56:05 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 224
+[28-Dec-2017 16:06:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 16:06:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 222
+[28-Dec-2017 16:06:22 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 224
+[28-Dec-2017 16:17:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 16:17:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 201
+[28-Dec-2017 16:17:48 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 203
+[28-Dec-2017 16:20:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 16:20:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 201
+[28-Dec-2017 16:20:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 203
+[28-Dec-2017 16:23:33 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 16:23:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 201
+[28-Dec-2017 16:23:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 203
+[28-Dec-2017 16:26:03 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 16:26:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 200
+[28-Dec-2017 16:26:03 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 202
+[28-Dec-2017 16:35:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 16:35:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 200
+[28-Dec-2017 16:35:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 202
+[28-Dec-2017 16:37:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 16:37:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 200
+[28-Dec-2017 16:37:07 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 202
+[28-Dec-2017 16:37:49 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 16:37:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 200
+[28-Dec-2017 16:37:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 202
+[28-Dec-2017 16:40:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 16:40:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 200
+[28-Dec-2017 16:40:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 202
+[28-Dec-2017 16:41:11 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 16:41:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 200
+[28-Dec-2017 16:41:11 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 202
+[28-Dec-2017 16:52:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 16:52:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 200
+[28-Dec-2017 16:52:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 202
+[28-Dec-2017 16:56:57 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 16:56:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 202
+[28-Dec-2017 16:56:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 204
+[28-Dec-2017 16:57:32 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 16:57:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 200
+[28-Dec-2017 16:57:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 202
+[28-Dec-2017 17:02:28 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 17:02:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 200
+[28-Dec-2017 17:02:28 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 202
+[28-Dec-2017 17:02:52 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 17:02:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 200
+[28-Dec-2017 17:02:52 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 202
+[28-Dec-2017 17:03:32 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 17:03:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 200
+[28-Dec-2017 17:03:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 202
+[28-Dec-2017 18:02:45 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 18:02:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 200
+[28-Dec-2017 18:02:45 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 202
+[28-Dec-2017 18:04:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 18:04:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 200
+[28-Dec-2017 18:04:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 202
+[28-Dec-2017 18:05:04 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 18:05:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 200
+[28-Dec-2017 18:05:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 202
+[28-Dec-2017 18:05:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 18:05:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 200
+[28-Dec-2017 18:05:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 202
+[28-Dec-2017 18:07:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 18:07:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 202
+[28-Dec-2017 18:07:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 204
+[28-Dec-2017 18:29:35 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 18:29:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 202
+[28-Dec-2017 18:29:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 204
+[28-Dec-2017 18:31:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 18:31:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 202
+[28-Dec-2017 18:31:07 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 204
+[28-Dec-2017 18:33:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 18:33:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 203
+[28-Dec-2017 18:33:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 205
+[28-Dec-2017 18:36:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 18:36:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 203
+[28-Dec-2017 18:36:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 205
+[28-Dec-2017 18:37:21 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 18:37:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 203
+[28-Dec-2017 18:37:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 205
+[28-Dec-2017 18:39:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 18:39:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 203
+[28-Dec-2017 18:39:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 205
+[28-Dec-2017 18:47:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 18:47:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 203
+[28-Dec-2017 18:47:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 205
+[28-Dec-2017 18:49:27 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 18:49:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 203
+[28-Dec-2017 18:49:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 205
+[28-Dec-2017 18:50:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 18:50:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 205
+[28-Dec-2017 18:50:17 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 207
+[28-Dec-2017 18:52:49 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 18:52:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 205
+[28-Dec-2017 18:52:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 207
+[28-Dec-2017 18:56:04 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 18:56:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 205
+[28-Dec-2017 18:56:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 207
+[28-Dec-2017 18:56:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 18:56:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 205
+[28-Dec-2017 18:56:53 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 207
+[28-Dec-2017 19:05:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 19:05:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 205
+[28-Dec-2017 19:05:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 207
+[28-Dec-2017 19:28:57 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 19:28:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 205
+[28-Dec-2017 19:28:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 207
+[28-Dec-2017 19:30:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 19:30:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 205
+[28-Dec-2017 19:30:53 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 207
+[28-Dec-2017 19:33:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 19:33:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 205
+[28-Dec-2017 19:33:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 207
+[28-Dec-2017 19:36:44 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 19:36:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 205
+[28-Dec-2017 19:36:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 207
+[28-Dec-2017 19:39:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 19:39:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 205
+[28-Dec-2017 19:39:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 207
+[28-Dec-2017 19:45:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 19:45:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 205
+[28-Dec-2017 19:45:53 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 207
+[28-Dec-2017 19:50:20 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 19:50:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 205
+[28-Dec-2017 19:50:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 207
+[28-Dec-2017 19:58:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 19:58:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 205
+[28-Dec-2017 19:58:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 207
+[28-Dec-2017 20:01:26 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 20:01:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 205
+[28-Dec-2017 20:01:26 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 207
+[28-Dec-2017 20:02:32 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 20:02:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 205
+[28-Dec-2017 20:02:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 207
+[28-Dec-2017 20:03:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 20:03:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 205
+[28-Dec-2017 20:03:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 207
+[28-Dec-2017 23:19:33 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 23:19:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 204
+[28-Dec-2017 23:19:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 206
+[28-Dec-2017 23:23:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 23:23:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 205
+[28-Dec-2017 23:23:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 207
+[28-Dec-2017 23:25:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 23:25:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 205
+[28-Dec-2017 23:25:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 207
+[28-Dec-2017 23:25:44 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 23:25:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 205
+[28-Dec-2017 23:25:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 207
+[28-Dec-2017 23:29:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 23:29:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 205
+[28-Dec-2017 23:29:15 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 207
+[28-Dec-2017 23:31:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 23:31:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 206
+[28-Dec-2017 23:31:22 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[28-Dec-2017 23:31:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 23:31:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 206
+[28-Dec-2017 23:31:53 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[28-Dec-2017 23:38:16 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 23:38:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[28-Dec-2017 23:38:16 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[28-Dec-2017 23:38:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 23:38:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[28-Dec-2017 23:38:54 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[28-Dec-2017 23:39:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 23:39:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[28-Dec-2017 23:39:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[28-Dec-2017 23:39:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 23:39:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[28-Dec-2017 23:39:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[28-Dec-2017 23:42:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/pxvsxkez/public_html/mase/index.php on line 306
+[28-Dec-2017 23:42:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/pxvsxkez/public_html/mase/index.php on line 306
+[28-Dec-2017 23:43:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 23:43:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[28-Dec-2017 23:43:22 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[28-Dec-2017 23:58:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 23:58:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[28-Dec-2017 23:58:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[28-Dec-2017 23:58:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[28-Dec-2017 23:58:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[28-Dec-2017 23:58:25 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[29-Dec-2017 00:03:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[29-Dec-2017 00:03:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[29-Dec-2017 00:03:07 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[29-Dec-2017 00:04:51 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[29-Dec-2017 00:04:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[29-Dec-2017 00:04:51 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[29-Dec-2017 00:06:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[29-Dec-2017 00:06:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[29-Dec-2017 00:06:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[29-Dec-2017 00:06:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[29-Dec-2017 00:06:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[29-Dec-2017 00:06:48 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[29-Dec-2017 00:07:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[29-Dec-2017 00:07:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[29-Dec-2017 00:07:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[29-Dec-2017 00:10:11 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[29-Dec-2017 00:10:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[29-Dec-2017 00:10:11 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[29-Dec-2017 00:10:47 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[29-Dec-2017 00:10:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[29-Dec-2017 00:10:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[29-Dec-2017 00:12:35 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[29-Dec-2017 00:12:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[29-Dec-2017 00:12:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[29-Dec-2017 00:12:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[29-Dec-2017 00:12:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[29-Dec-2017 00:12:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[29-Dec-2017 00:13:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[29-Dec-2017 00:13:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[29-Dec-2017 00:13:54 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[29-Dec-2017 00:14:19 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[29-Dec-2017 00:14:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[29-Dec-2017 00:14:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[29-Dec-2017 00:14:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[29-Dec-2017 00:14:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[29-Dec-2017 00:14:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[29-Dec-2017 00:15:18 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[29-Dec-2017 00:15:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[29-Dec-2017 00:15:18 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[29-Dec-2017 00:15:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[29-Dec-2017 00:15:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[29-Dec-2017 00:15:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[29-Dec-2017 00:17:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[29-Dec-2017 00:17:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[29-Dec-2017 00:17:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[29-Dec-2017 00:20:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[29-Dec-2017 00:20:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[29-Dec-2017 00:20:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[29-Dec-2017 00:27:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[29-Dec-2017 00:27:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[29-Dec-2017 00:27:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[29-Dec-2017 01:29:20 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[29-Dec-2017 01:29:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[29-Dec-2017 01:29:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[29-Dec-2017 01:31:09 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[29-Dec-2017 01:31:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[29-Dec-2017 01:31:09 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 12:10:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 12:10:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 12:10:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 16:11:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 16:11:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 16:11:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 16:14:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 16:14:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 16:14:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 16:22:04 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 16:22:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 16:22:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 16:25:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 16:25:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 16:25:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 16:29:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 16:29:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 16:29:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 16:37:49 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 16:37:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 16:37:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 16:38:08 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 16:38:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 16:38:08 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 16:40:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 16:40:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 16:40:07 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 16:44:52 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 16:44:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 16:44:52 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 16:45:28 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 16:45:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 16:45:28 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 16:47:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 16:47:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 16:47:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 16:50:18 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 16:50:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 16:50:18 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 16:58:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 16:58:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 16:58:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 16:59:16 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 16:59:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 16:59:16 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 17:00:58 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 17:00:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 17:00:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 17:01:42 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 17:01:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 17:01:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 17:13:33 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 17:13:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 17:13:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 17:14:16 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 17:14:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 17:14:16 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 17:15:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 17:15:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 17:15:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 17:16:42 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 17:16:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 17:16:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 17:21:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 17:21:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 17:21:53 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 17:25:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 17:25:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 17:25:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 17:26:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 17:26:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 17:26:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 17:29:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 17:29:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 17:29:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 17:30:11 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 17:30:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 17:30:11 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 17:31:04 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 17:31:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 17:31:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 17:33:20 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 17:33:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 17:33:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 17:33:41 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 17:33:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 17:33:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 17:34:13 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 17:34:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 17:34:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 17:34:50 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 17:34:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 17:34:50 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 17:39:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 17:39:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 17:39:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 17:41:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 17:41:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 17:41:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 17:44:35 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 17:44:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 17:44:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 17:45:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 17:45:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 17:45:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 18:02:04 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 18:02:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 18:02:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 18:03:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 18:03:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 18:03:15 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 18:07:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 18:07:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 18:07:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 18:09:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 18:09:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 18:09:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 18:10:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 18:10:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 18:10:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 18:12:29 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 18:12:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 18:12:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 18:14:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 18:14:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 18:14:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 18:15:35 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 18:15:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 18:15:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 18:16:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 18:16:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 18:16:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 18:18:47 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 18:18:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 18:18:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 18:20:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 18:20:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 18:20:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 18:20:13 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 18:20:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 18:20:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 18:21:44 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 18:21:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 18:21:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 18:23:08 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 18:23:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 18:23:08 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 18:26:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 18:26:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 18:26:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 18:27:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 18:27:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 18:27:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 18:33:13 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 18:33:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 18:33:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 18:38:28 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 18:38:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 18:38:28 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 18:42:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 18:42:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 18:42:07 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 18:43:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 18:43:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 18:43:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 18:45:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 18:45:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 18:45:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 18:49:44 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 18:49:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 18:49:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 18:52:35 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 18:52:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 330
+[30-Dec-2017 18:52:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 332
+[30-Dec-2017 18:52:42 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 18:52:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 330
+[30-Dec-2017 18:52:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 332
+[30-Dec-2017 18:53:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 18:53:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 330
+[30-Dec-2017 18:53:07 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 332
+[30-Dec-2017 18:56:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 18:56:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 18:56:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 18:58:26 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 18:58:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 18:58:26 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 18:58:32 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 18:58:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 18:58:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 18:59:03 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 18:59:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 18:59:03 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 19:00:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 19:00:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 19:00:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 19:00:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 19:00:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 19:00:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 19:01:00 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 19:01:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 19:01:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 19:01:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 19:01:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 19:01:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 19:14:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 19:14:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 208
+[30-Dec-2017 19:14:54 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 210
+[30-Dec-2017 19:20:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 19:20:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 378
+[30-Dec-2017 19:20:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 380
+[30-Dec-2017 19:20:42 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 19:20:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 378
+[30-Dec-2017 19:20:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 380
+[30-Dec-2017 19:25:04 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 19:25:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 378
+[30-Dec-2017 19:25:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 380
+[30-Dec-2017 19:26:28 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 19:26:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 378
+[30-Dec-2017 19:26:28 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 380
+[30-Dec-2017 19:26:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 19:26:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 378
+[30-Dec-2017 19:26:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 380
+[30-Dec-2017 20:29:16 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 20:29:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 378
+[30-Dec-2017 20:29:16 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 380
+[30-Dec-2017 23:53:11 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[30-Dec-2017 23:53:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 378
+[30-Dec-2017 23:53:11 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 380
+[31-Dec-2017 00:01:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[31-Dec-2017 00:01:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 378
+[31-Dec-2017 00:01:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 380
+[31-Dec-2017 01:44:21 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[31-Dec-2017 01:44:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 378
+[31-Dec-2017 01:44:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 380
+[31-Dec-2017 01:47:29 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[31-Dec-2017 01:47:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 378
+[31-Dec-2017 01:47:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 380
+[31-Dec-2017 01:50:42 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[31-Dec-2017 01:50:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 378
+[31-Dec-2017 01:50:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 380
+[31-Dec-2017 01:55:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[31-Dec-2017 01:55:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 378
+[31-Dec-2017 01:55:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 380
+[31-Dec-2017 02:03:41 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[31-Dec-2017 02:03:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 378
+[31-Dec-2017 02:03:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 380
+[31-Dec-2017 02:04:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[31-Dec-2017 02:04:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 378
+[31-Dec-2017 02:04:22 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 380
+[31-Dec-2017 02:07:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[31-Dec-2017 02:07:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 378
+[31-Dec-2017 02:07:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 380
+[31-Dec-2017 02:11:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[31-Dec-2017 02:11:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 378
+[31-Dec-2017 02:11:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 380
+[31-Dec-2017 05:18:05 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[31-Dec-2017 05:18:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 378
+[31-Dec-2017 05:18:05 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 380
+[31-Dec-2017 09:35:32 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[31-Dec-2017 09:35:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 378
+[31-Dec-2017 09:35:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 380
+[31-Dec-2017 09:35:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[31-Dec-2017 09:35:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 378
+[31-Dec-2017 09:35:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 380
+[31-Dec-2017 09:40:19 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[31-Dec-2017 09:40:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 378
+[31-Dec-2017 09:40:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 380
+[31-Dec-2017 09:43:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[31-Dec-2017 09:43:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 378
+[31-Dec-2017 09:43:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 380
+[31-Dec-2017 09:45:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[31-Dec-2017 09:45:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 378
+[31-Dec-2017 09:45:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 380
+[31-Dec-2017 09:45:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[31-Dec-2017 09:45:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 378
+[31-Dec-2017 09:45:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 380
+[31-Dec-2017 10:24:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[31-Dec-2017 10:24:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 378
+[31-Dec-2017 10:24:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 380
+[31-Dec-2017 10:24:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[31-Dec-2017 10:24:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 378
+[31-Dec-2017 10:24:53 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 380
+[31-Dec-2017 10:26:03 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[31-Dec-2017 10:26:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 378
+[31-Dec-2017 10:26:03 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 380
+[31-Dec-2017 10:27:35 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[31-Dec-2017 10:27:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 378
+[31-Dec-2017 10:27:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 380
+[31-Dec-2017 10:35:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[31-Dec-2017 10:35:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 378
+[31-Dec-2017 10:35:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 380
+[31-Dec-2017 11:07:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[31-Dec-2017 11:07:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 378
+[31-Dec-2017 11:07:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 380
+[31-Dec-2017 11:39:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[31-Dec-2017 11:39:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 378
+[31-Dec-2017 11:39:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 380
+[01-Jan-2018 02:34:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[01-Jan-2018 02:34:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 378
+[01-Jan-2018 02:34:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 380
+[01-Jan-2018 02:34:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[01-Jan-2018 02:34:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 378
+[01-Jan-2018 02:34:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 380
+[01-Jan-2018 20:40:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[01-Jan-2018 20:40:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 378
+[01-Jan-2018 20:40:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 380
+[01-Jan-2018 22:32:12 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[01-Jan-2018 22:32:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 378
+[01-Jan-2018 22:32:12 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 380
+[01-Jan-2018 22:37:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[01-Jan-2018 22:37:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 378
+[01-Jan-2018 22:37:54 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 380
+[01-Jan-2018 22:39:20 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[01-Jan-2018 22:39:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 378
+[01-Jan-2018 22:39:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 380
+[01-Jan-2018 22:40:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[01-Jan-2018 22:40:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 233
+[01-Jan-2018 22:40:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 235
+[01-Jan-2018 22:41:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[01-Jan-2018 22:41:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 233
+[01-Jan-2018 22:41:25 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 235
+[01-Jan-2018 22:41:44 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[01-Jan-2018 22:41:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 233
+[01-Jan-2018 22:41:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 235
+[01-Jan-2018 22:42:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[01-Jan-2018 22:42:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 248
+[01-Jan-2018 22:42:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 250
+[01-Jan-2018 22:45:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[01-Jan-2018 22:45:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 248
+[01-Jan-2018 22:45:54 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 250
+[01-Jan-2018 22:48:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[01-Jan-2018 22:48:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 248
+[01-Jan-2018 22:48:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 250
+[01-Jan-2018 22:54:08 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[01-Jan-2018 22:54:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 236
+[01-Jan-2018 22:54:08 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 238
+[01-Jan-2018 22:58:21 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[01-Jan-2018 22:58:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 236
+[01-Jan-2018 22:58:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 238
+[01-Jan-2018 22:58:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[01-Jan-2018 22:58:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 236
+[01-Jan-2018 22:58:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 238
+[01-Jan-2018 23:03:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[01-Jan-2018 23:03:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 236
+[01-Jan-2018 23:03:07 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 238
+[01-Jan-2018 23:07:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[01-Jan-2018 23:07:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 236
+[01-Jan-2018 23:07:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 238
+[01-Jan-2018 23:08:38 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[01-Jan-2018 23:08:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 236
+[01-Jan-2018 23:08:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 238
+[01-Jan-2018 23:09:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'claudiavieira'@'localhost' (using password: YES) in /home/pxvsxkez/public_html/mase/includes/db.php on line 21
+[01-Jan-2018 23:09:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pxvsxkez/public_html/mase/index.php on line 236
+[01-Jan-2018 23:09:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 238
+[01-Jan-2018 23:58:47 UTC] PHP Warning:  include(../includes/db.php): failed to open stream: No such file or directory in /home/pxvsxkez/public_html/mase/index.php on line 1
+[01-Jan-2018 23:58:47 UTC] PHP Warning:  include(../includes/db.php): failed to open stream: No such file or directory in /home/pxvsxkez/public_html/mase/index.php on line 1
+[01-Jan-2018 23:58:47 UTC] PHP Warning:  include(): Failed opening '../includes/db.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/pxvsxkez/public_html/mase/index.php on line 1
+[01-Jan-2018 23:58:47 UTC] PHP Warning:  include(../includes/header.php): failed to open stream: No such file or directory in /home/pxvsxkez/public_html/mase/index.php on line 3
+[01-Jan-2018 23:58:47 UTC] PHP Warning:  include(../includes/header.php): failed to open stream: No such file or directory in /home/pxvsxkez/public_html/mase/index.php on line 3
+[01-Jan-2018 23:58:47 UTC] PHP Warning:  include(): Failed opening '../includes/header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/pxvsxkez/public_html/mase/index.php on line 3
+[01-Jan-2018 23:58:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/index.php on line 236
+[01-Jan-2018 23:58:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 238
+[02-Jan-2018 00:00:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/index.php on line 378
+[02-Jan-2018 00:00:12 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 380
+[02-Jan-2018 00:13:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/index.php on line 378
+[02-Jan-2018 00:13:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 380
+[02-Jan-2018 00:16:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/index.php on line 378
+[02-Jan-2018 00:16:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 380
+[02-Jan-2018 00:24:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/index.php on line 378
+[02-Jan-2018 00:24:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 380
+[02-Jan-2018 00:29:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/index.php on line 378
+[02-Jan-2018 00:29:11 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 380
+[02-Jan-2018 01:20:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/index.php on line 378
+[02-Jan-2018 01:20:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 380
+[02-Jan-2018 14:40:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/index.php on line 378
+[02-Jan-2018 14:40:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 380
+[02-Jan-2018 23:14:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/index.php on line 378
+[02-Jan-2018 23:14:11 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 380
+[02-Jan-2018 23:14:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/index.php on line 378
+[02-Jan-2018 23:14:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 380
+[03-Jan-2018 00:03:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/index.php on line 378
+[03-Jan-2018 00:03:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 380
+[03-Jan-2018 00:35:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/index.php on line 378
+[03-Jan-2018 00:35:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 380
+[03-Jan-2018 00:36:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/index.php on line 378
+[03-Jan-2018 00:36:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 380
+[03-Jan-2018 02:24:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/index.php on line 378
+[03-Jan-2018 02:24:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 380
+[03-Jan-2018 02:27:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/index.php on line 396
+[03-Jan-2018 02:27:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 398
+[03-Jan-2018 02:27:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/index.php on line 396
+[03-Jan-2018 02:27:17 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 398
+[03-Jan-2018 02:27:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/index.php on line 396
+[03-Jan-2018 02:27:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 398
+[03-Jan-2018 02:28:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/index.php on line 396
+[03-Jan-2018 02:28:30 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 398
+[03-Jan-2018 02:32:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/index.php on line 406
+[03-Jan-2018 02:32:28 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 408
+[03-Jan-2018 02:32:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/index.php on line 389
+[03-Jan-2018 02:32:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 391
+[03-Jan-2018 02:33:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/index.php on line 389
+[03-Jan-2018 02:33:15 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 391
+[03-Jan-2018 02:34:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/index.php on line 389
+[03-Jan-2018 02:34:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 391
+[03-Jan-2018 02:38:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/index.php on line 391
+[03-Jan-2018 02:38:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 393
+[03-Jan-2018 02:38:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/index.php on line 391
+[03-Jan-2018 02:38:26 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 393
+[03-Jan-2018 02:41:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/index.php on line 391
+[03-Jan-2018 02:41:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 393
+[03-Jan-2018 02:43:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/index.php on line 391
+[03-Jan-2018 02:43:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 393
+[03-Jan-2018 04:31:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/index.php on line 391
+[03-Jan-2018 04:31:08 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 393
+[03-Jan-2018 10:47:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/index.php on line 391
+[03-Jan-2018 10:47:28 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 393
+[03-Jan-2018 11:00:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/index.php on line 391
+[03-Jan-2018 11:00:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 393
+[03-Jan-2018 11:01:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/index.php on line 391
+[03-Jan-2018 11:01:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 393
+[03-Jan-2018 11:04:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/index.php on line 391
+[03-Jan-2018 11:04:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 393
+[03-Jan-2018 11:05:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/index.php on line 391
+[03-Jan-2018 11:05:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 393
+[03-Jan-2018 11:06:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/index.php on line 391
+[03-Jan-2018 11:06:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 393
+[03-Jan-2018 12:44:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/index.php on line 392
+[03-Jan-2018 12:44:12 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 394
+[03-Jan-2018 12:51:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/index.php on line 392
+[03-Jan-2018 12:51:09 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 394
+[03-Jan-2018 12:57:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/index.php on line 392
+[03-Jan-2018 12:57:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 394
+[03-Jan-2018 13:41:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/index.php on line 392
+[03-Jan-2018 13:41:12 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 394
+[03-Jan-2018 13:44:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/index.php on line 392
+[03-Jan-2018 13:44:16 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 394
+[03-Jan-2018 13:44:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/index.php on line 392
+[03-Jan-2018 13:44:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 394
+[03-Jan-2018 15:35:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/index.php on line 392
+[03-Jan-2018 15:35:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 394
+[03-Jan-2018 15:35:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/index.php on line 392
+[03-Jan-2018 15:35:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 394
+[03-Jan-2018 15:36:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/index.php on line 392
+[03-Jan-2018 15:36:12 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 394
+[03-Jan-2018 16:14:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/index.php on line 392
+[03-Jan-2018 16:14:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 394
+[03-Jan-2018 19:53:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/index.php on line 392
+[03-Jan-2018 19:53:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 394
+[03-Jan-2018 19:54:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/index.php on line 392
+[03-Jan-2018 19:54:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 394
+[03-Jan-2018 19:54:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/index.php on line 392
+[03-Jan-2018 19:54:54 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 394
+[03-Jan-2018 19:55:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/index.php on line 392
+[03-Jan-2018 19:55:12 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 394
+[04-Jan-2018 00:31:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/index.php on line 392
+[04-Jan-2018 00:31:54 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 394
+[04-Jan-2018 01:44:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/index.php on line 392
+[04-Jan-2018 01:44:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 394
+[04-Jan-2018 01:44:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/index.php on line 392
+[04-Jan-2018 01:44:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 394
+[04-Jan-2018 02:12:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/index.php on line 392
+[04-Jan-2018 02:12:07 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 394
+[04-Jan-2018 02:23:41 UTC] PHP Warning:  require(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/pxvsxkez/public_html/mase/index.php on line 2
+[04-Jan-2018 02:23:41 UTC] PHP Warning:  require(http://www.funnyfitnessfood.com/mase/includes/Mobile_Detect.php): failed to open stream: no suitable wrapper could be found in /home/pxvsxkez/public_html/mase/index.php on line 2
+[04-Jan-2018 02:23:41 UTC] PHP Fatal error:  require(): Failed opening required 'http://www.funnyfitnessfood.com/mase/includes/Mobile_Detect.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/pxvsxkez/public_html/mase/index.php on line 2
+[04-Jan-2018 02:24:18 UTC] PHP Warning:  require(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/pxvsxkez/public_html/mase/index.php on line 2
+[04-Jan-2018 02:24:18 UTC] PHP Warning:  require(http://www.funnyfitnessfood.com/mase/includes/Mobile_Detect.php): failed to open stream: no suitable wrapper could be found in /home/pxvsxkez/public_html/mase/index.php on line 2
+[04-Jan-2018 02:24:18 UTC] PHP Fatal error:  require(): Failed opening required 'http://www.funnyfitnessfood.com/mase/includes/Mobile_Detect.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/pxvsxkez/public_html/mase/index.php on line 2
+[04-Jan-2018 02:24:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/index.php on line 394
+[04-Jan-2018 02:24:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 396
+[04-Jan-2018 02:25:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/index.php on line 394
+[04-Jan-2018 02:25:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 396
+[04-Jan-2018 02:26:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/index.php on line 396
+[04-Jan-2018 02:26:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 398
+[04-Jan-2018 02:26:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/index.php on line 399
+[04-Jan-2018 02:26:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/index.php on line 401

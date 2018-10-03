@@ -1,0 +1,245 @@
+/* 
+
+Copyright (C) 2018 Maestro Media Group B.V.
+
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Karla:400,700');
+@import url('https://fonts.googleapis.com/css?family=Work+Sans:400,700');
+
+
+body {
+    font-family: 'Karla', sans-serif;
+}
+
+p {
+    color: #c5c7c8;
+    font-size: 19px; 
+    letter-spacing: 1px;  
+}
+
+h1 {
+    color: black;
+    font-size: 40px;
+    margin: 0;
+}
+h2 {
+    color: white;
+    font-size: 60px;
+    font-family: Karla;
+    font-weight: normal;
+}
+
+h3 {
+    margin: 0;
+    color: black;
+    font-size: 25px;
+    font-weight: normal;
+    font-family: Karla;
+
+}
+a{
+    font-size: 19px;
+    color: white;
+    text-decoration: none;
+    
+}
+
+.article-description {
+    color: #c5c7c8;
+    font-size: 16px; 
+    letter-spacing: 1px;
+}
+
+.article-icon-text {
+    color: black;
+    font-size: 14px; 
+    letter-spacing: 1px;
+}
+
+.sub-title {
+    font-size:40px;
+}
+
+.black {
+    color: black;
+    letter-spacing: 1px;
+}
+
+.text-small{
+    font-size: 17px;
+}
+/* Elements */
+button{
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    
+}
+
+.button-2 {
+    color: black;
+    text-decoration: underline;
+    text-align: right;
+    font-weight: bold;
+    text-underline-position: under
+}
+
+.button-see-more {
+    margin: 0;
+    color: black;
+    text-decoration: underline;
+    text-align: right;
+    font-weight: bold;
+    text-underline-position: under
+}
+.button-blue {
+    background-color: #5790ff;
+    font-weight: bold;
+}
+
+.button-orange {
+    background-color: #ffc569;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+/* CSS Grids Position */
+
+#home {
+    background-image: URL('../img/bg/home-bg.jpg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-template-rows: repeat(12, 1fr) ;
+    min-height:100%;
+    margin: 0;
+}
+
+#intro {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-template-rows: repeat(12, 1fr) ;
+    min-height:100%;
+}
+
+#article {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-template-rows: repeat(12, 1fr) ;
+    min-height:100%; 
+}
+
+.article {
+    background-image: URL('../img/bg/home-bg.jpg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    grid-column: 1/6;
+    grid-row: 1/13; 
+}
+
+.article-page-header {
+    grid-column: 7/8;
+    grid-row: 2/3;
+}
+
+.see-more {
+    grid-column: 10/12;
+    grid-row: 2/3;   
+}
+
+.article-pos-1 {
+    grid-column: 7/9;
+    grid-row: 4/8;
+    margin: 0;
+}
+
+.article-pos-2 {
+    grid-column: 10/12;
+    grid-row: 4/8;
+    margin: 0;
+}
+
+.article-pos-3 {
+    grid-column: 10/12;
+    grid-row: 8/12;
+    margin: 0;
+    padding-top: 24px;
+}
+#footer {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-template-rows: repeat(12, 1fr) ;
+    min-height:100%; 
+}
+
+.footer {
+    background-image: URL('../img/misc/R6_FINALS_BENELUX-45.jpeg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    grid-column: 1/13;
+    grid-row: 1/10; 
+}
+
+.footer-bottom {
+    background-color: #1d1d1d;
+    grid-column: 1/13;
+    grid-row: 10/13;
+}
+
+.motto {
+    grid-column:5/9;
+    grid-row: 5/13;
+    justify-content: center;
+}
+
+.footer-content {
+    grid-column: 3/13;
+    grid-row: 11/12;
+}
+.intro {
+    grid-column: 3/9;
+    grid-row: 6;
+    justify-self: left;
+}
+
+.intro-right {
+    grid-column: 9;
+    grid-row: 6;
+}
+.intro-right-1 {
+    grid-column: 10;
+    grid-row: 6;
+}
+.content {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-template-rows: repeat(12, 1fr) ;
+    min-height:100%;
+    margin: 0;
+}
+
+.info-box {
+    grid-column: 3/8;
+    grid-row: 13;
+    padding-bottom: 80px;
+    justify-self: left;
+}
+
+.read-more {
+    grid-column: 11/13;
+    grid-row: 13;
+    padding-top: 200px;
+}
+
+.logo-right {
+    grid-column: 11/11;
+    grid-row: 2;
+    justify-self: right;
+}

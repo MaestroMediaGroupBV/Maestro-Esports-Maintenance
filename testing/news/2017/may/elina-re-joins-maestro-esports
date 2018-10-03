@@ -1,0 +1,375 @@
+<!doctype html>
+<html>
+
+
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+<head>
+        <meta charset="utf-8">
+        <meta name="description" content="	">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="icon" href="../../../assets/img/favicon/favicon.ico">
+        <title>Maestro eSports | Elina Re-joins Maestro Esports</title>
+
+		<!-- Google font -->
+
+		<!-- /Google font -->
+
+        <!-- Le styles -->
+        <link rel="stylesheet" href="../../../assets/css/base.css">
+      	<!-- /Le styles -->
+
+    </head>
+    <body>
+
+		<!-- Start of Async Drift Code -->
+<script>
+!function() {
+  var t;
+  if (t = window.driftt = window.drift = window.driftt || [], !t.init) return t.invoked ? void (window.console && console.error && console.error("Drift snippet included twice.")) : (t.invoked = !0,
+  t.methods = [ "identify", "config", "track", "reset", "debug", "show", "ping", "page", "hide", "off", "on" ],
+  t.factory = function(e) {
+    return function() {
+      var n;
+      return n = Array.prototype.slice.call(arguments), n.unshift(e), t.push(n), t;
+    };
+  }, t.methods.forEach(function(e) {
+    t[e] = t.factory(e);
+  }), t.load = function(t) {
+    var e, n, o, i;
+    e = 3e5, i = Math.ceil(new Date() / e) * e, o = document.createElement("script"),
+    o.type = "text/javascript", o.async = !0, o.crossorigin = "anonymous", o.src = "https://js.driftt.com/include/" + i + "/" + t + ".js",
+    n = document.getElementsByTagName("script")[0], n.parentNode.insertBefore(o, n);
+  });
+}();
+drift.SNIPPET_VERSION = '0.3.1';
+drift.load('xecnffkda8sv');
+</script>
+<!-- End of Async Drift Code -->
+
+	    	<a href="#" id="menu-toggle-wrapper">
+			<div id="menu-toggle"></div>
+		</a>
+
+		<!-- inner bar wrapper -->
+    	<a href="#" id="inner-bar">
+			<!-- Small logo -->
+			<div class="logo-alt">
+				<img src="../../../assets/img/logo-test-logo.png" alt="logo-banner">
+			</div>
+			<!-- /Small logo -->
+		</a>
+		<!-- /inner bar wrapper -->
+
+
+    	<!-- Sidebar -->
+		<div id="side-bar">
+			<div class="inner-wrapper">
+				<div id="side-inner">
+
+					<!-- Logo -->
+					<div id="logo-wrapper">
+						<a href="https://masesports.org"><img src="../../../assets/img/logo/logo.png" alt="logo"></a>
+					</div>
+					<!-- /Logo -->
+
+					<div id="side-contents">
+
+						<!-- Navigation -->
+						<ul id="navigation">
+							<li class="menu-item"><a href="https://masesports.org">Home</a>
+							</li>
+							<li class="menu-item"><a href="../../../rosters">Rosters</a>
+							</li>
+
+							<li class="menu-item"><a href="../../../about">About</a>
+							</li>
+
+							<li class="menu-item"><a href="../../../news/news">News</a>
+							</li>
+
+							<li class="menu-item"><a href="../../../partners">Partners</a>
+							</li>
+
+              <li class="menu-item"><a href="../../../jobs">jobs</a>
+							</li>
+
+              <li class="menu-item"><a href ="https://dombaishop.com/collections/maestro" target="_blank" >Shop</a>
+							</li>
+
+							<li class="menu-item"><a href="../../../gallery">Gallery</a>
+							</li>
+
+							<li class="menu-item"><a href="../../../contact">Contact</a>
+							</li>
+
+
+
+						</ul>
+						<!-- /Navigation -->
+
+					</div>
+
+					<!-- Sidebar footer -->
+					<div id="side-footer">
+						<!-- Social icons -->
+						<ul class="social-icons">
+						    <li><a href="https://www.linkedin.com/company-beta/17951677/"><i class="fa fa-linkedin"></i></a></li>
+							<li><a href="https://www.facebook.com/maestrosesports/"><i class="fa fa-facebook"></i></a></li>
+							<li><a href="https://twitter.com/masesports"><i class="fa fa-twitter"></i></a></li>
+							<li><a href="https://www.instagram.com/maestroesports/"><i class="fa fa-instagram"></i></a></li>
+
+						</ul>
+						<!-- /Social icons -->
+						<div id="copyright">
+							© Copyright 2017. Maestro Esports
+						</div>
+					</div>
+					<!-- /Sidebar footer -->
+
+				</div>
+			</div>
+
+
+		</div>
+		<!-- /Sidebar -->
+
+		<!-- Page main wrapper -->
+		<div id="main-content">
+			<div class="page-wrapper">
+				<div id="blog-single">
+
+					<!-- Post header -->
+					<div id="post-header" class="parallax-parent">
+
+						<!-- Header image -->
+						<div class="header-cover set-bg">
+							<img src="../assets/thumbnail/Elina.png" alt="">
+						</div>
+						<!-- /Header image -->
+
+						<!-- Header content -->
+						<div class="header-content tj-parallax" data-ratio="1">
+							<div class="container">
+								<h1 class="post-title">
+
+								</h1>
+							</div>
+						</div>
+						<!-- /Header content -->
+
+					</div>
+					<!-- /Post header -->
+
+					<div class="container">
+
+						<!-- Post body -->
+						<div id="post-body">
+							<div class="row">
+
+								<!-- Post sidebar -->
+								<div id="post-side" class="col-md-2">
+
+									<!-- Post meta -->
+									<div class="post-meta">
+										<div class="post-author-image">
+											<img src="../assets/authors/Joanne.jpg" alt="" width="120" height="120">
+										</div>
+										<div class="post-meta-inner">
+											<div class="post-author-name"><i class="fa fa-pencil-square-o list-icon"></i>Joanne Watson</div>
+										    <div class="post-date"><i class="fa fa-calendar-o list-icon"></i>28 May 2017</div>
+										    <div class="post-categories">
+										    	<i class="fa fa-folder-o list-icon"></i>
+										    	<ul>
+										    	    <li><a href="#">Event</a><span>, </span></li>
+										    	</ul>
+										    </div>
+
+										</div>
+									</div>
+									<!-- /Post meta -->
+
+									<!-- Post Social sharing -->
+									<div id="post-share" class="box-social">
+										<h4 class="u-heading">Share</h4>
+										<ul>
+							                <li><a href="#" target="_blank"><i class="fa fa-facebook"></i></a></li>
+							                <li><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li>
+							            </ul>
+									</div>
+									<!-- /Post Social sharing -->
+
+								</div>
+								<!-- /Post sidebar -->
+
+								<!-- Post main area -->
+								<div class="col-md-10">
+
+									<!-- Post Content -->
+									<div id="post-content">
+
+										<h1>Elina “diva” Jacobsen re-joins Maestro Esports</h1>
+										<h4><font color="#a0a0a0">Former rifler diva has re-joined Maestro Esports as an Assistant GFX Designer</font></h4>
+										<p>
+											The switch comes after the Norwegian featured in the Maestro Esports female CounterStrike: Global Offensive team. Elina Jacobsen signed for the team in early 2017 where she played a vital role in the roster. Accompanied by her Swedish teammates the 17 year old hit the ground running, performing well in a whole host of scrimmages.
+										</p>
+										<p>
+											 She went on to showcase her talents during <strong>Copenhagen Games 2017</strong> the team’s first LAN event.
+										</p>
+										However due to personal issues, Elina decided it was best to resign from her position at Maestro Esports shortly after the tournament. The teenager felt it was best to focus on school and in particular her graphic design studies. Elina completed a wide range of professional designs in her spare time and whilst in school. In a conversation with the staff at Maestro, Incorporated the Norwegian’s talents for design were discovered.
+										<p>
+										After already establishing a friendly relationship with each staff member. Elina went on to accept a position at organisation as an Assistant Graphic Designer.
+										</p>
+
+										<p>
+										The former CS:GO rifler stated:<blockquote> “I’m very happy to be back, this time as a staff member. It’s always a positive and sociable atmosphere. Now I get to do something I love, still within the organisation that I love.”</blockquote>
+
+										</p>
+
+										<p>
+											Elina Jacobsen will now be part of the design team in a mutual agreement with us. Maestro, Inc is extremely happy to have the young designer onboard to aid in her growth and personal development.
+
+										</p>
+
+
+									</div>
+									<!-- /Post Content -->
+
+									<!-- Post Navigation -->
+									<div id="post-nav">
+										<a class="prev-post btn btn-lg btn-simple" href="#">Prev</a>
+										<a class="prev-post btn btn-lg btn-simple pull-right" href="#">Next</a>
+									</div>
+									<!-- /Post Navigation -->
+
+
+
+								</div>
+								<!-- /Post main area -->
+
+							</div>
+						</div>
+						<!-- /Post body -->
+					</div>
+				</div>
+
+				<!-- siteFooterTop -->
+				 <footer class="site-footer">
+    <div id="siteFooterTop" class="site-footer-top-section">
+      <div class="container">
+        <div class="site-footer-top-row row">
+          <div class="site-footer-top-col col-sm-8 col-sm-offset-2">
+            <h2 class="section-title">" Winners <b>don't</b> quit. "</h2>
+          </div>
+        </div>
+      </div>
+    </div>
+	<!-- siteFooterTop -->
+
+    <div id="siteFooterBottom" class="site-footer-bottom-section">
+      <div class="container">
+        <div class="site-footer-bottom-border"></div>
+        <div class="row">
+          <div class="site-footer-bottom-left-col col-md-6">
+            <div class="site-footer-brand">
+             Mase <span>Esports</span>
+            </div>
+
+            <div class="site-footer-bottom-info">
+              <ul>
+                <li><a href="../../../privacy-policy">Privacy Policy</a></li>
+                <li><a href="../../../site-map">Site map</a></li>
+                <li><a href="../../../careers">Careers</a></li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="site-footer-bottom-right-col col-md-6">
+		  <br>
+            <div class="site-footer-bottom-copyright">© Copyright 2017. Maestro Esports</div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+	<!-- #siteFooterBottom -->
+
+  </footer>
+
+			</div>
+		</div>
+		<!-- /Page main wrapper -->
+
+
+		<!-- Javascript files -->
+
+		<!-- jquery core -->
+		<script type="text/javascript" src="../../../assets/js/vendors/jquery-1.11.0.min.js"></script>
+
+		<!-- imagesLoaded jquery plugin -->
+		<script type="text/javascript" src="../../../assets/js/vendors/imagesloaded.pkgd.min.js"></script>
+
+		<!-- jquery isotop plugin -->
+		<script type="text/javascript" src="../../../assets/js/vendors/isotope.pkgd.min.js"></script>
+
+		<!-- jquery history neede for ajax pages -->
+		<script type="text/javascript" src="../../../assets/js/vendors/jquery.history.js"></script>
+
+		<!-- owwwlab jquery kenburn slider plugin -->
+		<script type="text/javascript" src="../../../assets/js/jquery.owwwlab-kenburns.js"></script>
+
+		<!-- owwwlab jquery double carousel plugin -->
+		<script type="text/javascript" src="../../../assets/js/jquery.owwwlab-DoubleCarousel.js"></script>
+
+		<!-- owwwwlab jquery video background plugin -->
+		<script type="text/javascript" src="../../../assets/js/jquery.owwwlab-video.js"></script>
+
+		<!-- tweenmax animation framework -->
+		<script type="text/javascript" src="../../../assets/js/vendors/TweenMax.min.js"></script>
+
+		<!-- jquery nice scroll plugin needed for vertical portfolio page -->
+		<script type="text/javascript" src="../../../assets/js/vendors/jquery.nicescroll.min.js"></script>
+
+		<!-- jquery magnific popup needed for ligh-boxes -->
+		<script type="text/javascript" src="../../../assets/js/vendors/jquery.magnific-popup.js"></script>
+
+		<!-- html5 media player -->
+		<script type="text/javascript" src="../../../assets/js/vendors/mediaelement-and-player.min.js"></script>
+
+		<!-- jquery inview plugin -->
+		<script type="text/javascript" src="../../../assets/js/vendors/jquery.inview.min.js"></script>
+
+		<!-- smooth scroll -->
+		<script type="text/javascript" src="../../../assets/js/vendors/smoothscroll.js"></script>
+
+
+
+		<!-- Master Slider -->
+		<script src="../../../assets/masterslider/jquery.easing.min.js"></script>
+		<script src="../../../assets/masterslider/masterslider.min.js"></script>
+
+		<!-- theme custom scripts -->
+		<script type="text/javascript" src="../../../assets/js/custom.js"></script>
+
+		<!-- /Javascript files -->
+
+		<!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  // tracker methods like "setCustomDimension" should be called before "trackPageView"
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//www.masesports.org/piwik/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', '1']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Piwik Code -->
+
+    </body>
+
+
+</html>
