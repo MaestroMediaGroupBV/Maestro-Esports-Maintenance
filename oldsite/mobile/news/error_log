@@ -1,0 +1,12 @@
+[03-Jan-2018 00:21:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/news/news.php on line 207
+[03-Jan-2018 00:21:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/news/news.php on line 209
+[03-Jan-2018 00:22:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/news/news.php on line 190
+[03-Jan-2018 00:22:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/news/news.php on line 192
+[03-Jan-2018 00:25:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/news/news.php on line 190
+[03-Jan-2018 00:25:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/news/news.php on line 192
+[03-Jan-2018 00:26:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/news/news.php on line 181
+[03-Jan-2018 00:26:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/news/news.php on line 183
+[03-Jan-2018 00:28:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/news/news.php on line 177
+[03-Jan-2018 00:28:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/news/news.php on line 179
+[03-Jan-2018 00:29:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pxvsxkez/public_html/mase/news/news.php on line 181
+[03-Jan-2018 00:29:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pxvsxkez/public_html/mase/news/news.php on line 183

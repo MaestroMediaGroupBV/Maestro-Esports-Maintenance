@@ -1,0 +1,639 @@
+<!doctype html>
+<html>
+
+
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+<head>
+        <meta charset="utf-8">
+        <meta name="description" content="	">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="icon" href="../assets/img/favicon/favicon.ico">
+        <title>Maestro eSports | Stream Team</title>
+
+
+
+        <!-- CSS styles -->
+        <link rel="stylesheet" href="../assets/css/base.css">
+      	<!-- /CSS styles -->
+
+		<style>
+
+	.online{
+	display: inline-block;
+	content:url("../assets/img/twitch-api/online.png");
+    }
+
+    .offline {
+	display: inline-block;
+	content:url("../assets/img/twitch-api/offline.png");
+    }
+
+	.onlinetext {
+	margin: 0 0 0 5px;
+	font-size: 1.4em;
+    }
+
+	.offlinetext {
+	margin: 0 0 0 5px;
+	font-size: 1.4em;
+    }
+
+    .viewers {
+	color: #ccc;
+	display: block;
+	margin: 0 0 0 12px;
+	font-size: 1.5em;
+    }
+		</style>
+    </head>
+    <body>
+
+<!-- Start of Async Drift Code -->
+<script>
+!function() {
+  var t;
+  if (t = window.driftt = window.drift = window.driftt || [], !t.init) return t.invoked ? void (window.console && console.error && console.error("Drift snippet included twice.")) : (t.invoked = !0,
+  t.methods = [ "identify", "config", "track", "reset", "debug", "show", "ping", "page", "hide", "off", "on" ],
+  t.factory = function(e) {
+    return function() {
+      var n;
+      return n = Array.prototype.slice.call(arguments), n.unshift(e), t.push(n), t;
+    };
+  }, t.methods.forEach(function(e) {
+    t[e] = t.factory(e);
+  }), t.load = function(t) {
+    var e, n, o, i;
+    e = 3e5, i = Math.ceil(new Date() / e) * e, o = document.createElement("script"),
+    o.type = "text/javascript", o.async = !0, o.crossorigin = "anonymous", o.src = "https://js.driftt.com/include/" + i + "/" + t + ".js",
+    n = document.getElementsByTagName("script")[0], n.parentNode.insertBefore(o, n);
+  });
+}();
+drift.SNIPPET_VERSION = '0.3.1';
+drift.load('xecnffkda8sv');
+</script>
+<!-- End of Async Drift Code -->
+
+    	<a href="#" id="menu-toggle-wrapper">
+			<div id="menu-toggle"></div>
+		</a>
+
+		<!-- inner bar wrapper -->
+    	<a href="#" id="inner-bar">
+			<!-- Small logo -->
+			<div class="logo-alt">
+				<img src="../assets/img/logo-test-logo.png" alt="logo-banner">
+			</div>
+			<!-- /Small logo -->
+		</a>
+		<!-- /inner bar wrapper -->
+
+
+    	<!-- Sidebar -->
+		<div id="side-bar">
+			<div class="inner-wrapper">
+				<div id="side-inner">
+
+					<!-- Logo -->
+					<div id="logo-wrapper">
+						<a href="https://masesports.org"><img src="../assets/img/logo/logo.png" alt="logo"></a>
+					</div>
+					<!-- /Logo -->
+
+					<div id="side-contents">
+
+						<!-- Navigation -->
+						<ul id="navigation">
+							<li class="menu-item"><a href="https://masesports.org/mobile">Home</a>
+							</li>
+							<li class="menu-item"><a href="../rosters.php">Rosters</a>
+							</li>
+
+							<li class="menu-item"><a href="../about.php">About</a>
+							</li>
+
+							<li class="menu-item"><a href="../news/news.php">News</a>
+							</li>
+
+							<li class="menu-item"><a href="../partners.php">Partners</a>
+							</li>
+
+              <li class="menu-item"><a href="../jobs">jobs</a>
+							</li>
+
+              <li class="menu-item"><a href ="https://dombaishop.com/collections/maestro" target="_blank" >Shop</a>
+							</li>
+
+							<li class="menu-item"><a href="../gallery.php">Gallery</a>
+							</li>
+
+							<li class="menu-item"><a href="../contact.php">Contact</a>
+							</li>
+
+
+
+						</ul>
+						<!-- /Navigation -->
+
+					</div>
+
+					<!-- Sidebar footer -->
+					<div id="side-footer">
+						<!-- Social icons -->
+						<ul class="social-icons">
+						    <li><a href="https://www.linkedin.com/company-beta/17951677/"><i class="fa fa-linkedin"></i></a></li>
+							<li><a href="https://www.facebook.com/maestrosesports/"><i class="fa fa-facebook"></i></a></li>
+							<li><a href="https://twitter.com/masesports"><i class="fa fa-twitter"></i></a></li>
+							<li><a href="https://www.instagram.com/maestroesports/"><i class="fa fa-instagram"></i></a></li>
+
+						</ul>
+						<!-- /Social icons -->
+						<div id="copyright">
+							© Copyright 2017. Maestro Esports
+						</div>
+					</div>
+					<!-- /Sidebar footer -->
+
+				</div>
+			</div>
+
+
+		</div>
+		<!-- /Sidebar -->
+
+
+
+		<!-- Page main wrapper -->
+		<div id="main-content" class="dark-template">
+			<!--Page sidebar-->
+				<div class="page-side set-bg inview-animate inview-fadeleft">
+				<img src="../assets/img/mobile/photo_r6s1bw.JPG" alt="alt" class="img-responsive">
+					<div class="inner-wrapper vcenter-wrapper">
+						<div class="side-content vcenter">
+							<div class="title">
+								<span class="second-part">Mase</span>
+								<span>Mase Stream Team</span>
+								<hr class="hr-thing-pgh pull-left">
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- /Page main content -->
+
+
+
+				<!--r6 players-->
+
+				<!-- team members row 1 -->
+				<div class="spacer-small"></div>
+					<div class="row mb-xlarge" style="background: #1c1c1c;">
+						<div class="team-members">
+							<div class="col-md-3">
+								<div class="team-item">
+									<div class="team-head">
+										<img src="../assets/img/twitch-api/streamers/agis1.png" alt="">
+										<ul class="team-socials">
+											<li><a href="https://www.twitch.tv/agis" target="_blank"><i class="fa fa-twitch"></i></a></li>
+											<li><a href="https://twitter.com/thatagis" target="_blank"><i class="fa fa-twitter"></i></a></li>
+											<li><a href="https://www.instagram.com/agiss100/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+										</ul>
+									</div>
+
+									<div class="team-content">
+										<h3 class="title">Agis</h3>
+										<h4 class="subtitle"></h4>
+										<br>
+										<a href="#" class="twitch-widget4" id="twitch-widget4" target="_blank"></a>
+										<br>
+										<br>
+										<p><a href="">view profile</a></p>
+									</div>
+
+							</div>
+						</div>
+
+							<div class="col-md-3">
+								<div class="team-item">
+									<div class="team-head">
+										<img src="../assets/img/twitch-api/streamers/yoso.jpg" alt="">
+										<ul class="team-socials">
+											<li><a href="https://www.twitch.tv/yosoykush" target="_blank"><i class="fa fa-twitch"></i></a></li>
+											<li><a href="https://twitter.com/yosoykush" target="_blank"><i class="fa fa-twitter"></i></a></li>
+										</ul>
+									</div>
+
+									<div class="team-content">
+										<h3 class="title">Yosoykush</h3>
+										<h4 class="subtitle"></h4>
+										<br>
+										<a href="#" class="twitch-widget2" id="twitch-widget2 target="_blank"></a>
+										<br>
+										<br>
+										<p><a href="">view profile</a></p>
+									</div>
+
+								</div>
+							</div>
+
+							<div class="col-md-3">
+								<div class="team-item">
+									<div class="team-head">
+										<img src="../assets/img/twitch-api/streamers/kiki.jpg" alt="">
+										<ul class="team-socials">
+										    <li><a href="https://www.twitch.tv/kikidea" target="_blank"><i class="fa fa-twitch"></i></a></li>
+											<li><a href="https://twitter.com/KikiDeaCS" target="_blank"><i class="fa fa-twitter"></i></a></li>
+										</ul>
+									</div>
+
+									<div class="team-content">
+										<h3 class="title">KikiDea</h3>
+										<h4 class="subtitle"></h4>
+										<br>
+										<a href="#" class="twitch-widget" id="twitch-widget" target="_blank"></a>
+										<br>
+										<br>
+										<p><a href="">view profile</a></p>
+									</div>
+
+								</div>
+							</div>
+							<div class="col-md-3">
+								<div class="team-item">
+									<div class="team-head">
+										<img src="../assets/img/twitch-api/streamers/wiberg.jpg" alt="">
+										<ul class="team-socials">
+
+											<li><a href="https://www.twitch.tv/fitnesswiberg" target="_blank"><i class="fa fa-twitch"></i></a></li>
+											<li><a href="https://twitter.com/OfficialWiberg" target="_blank"><i class="fa fa-twitter"></i></a></li>
+											<li><a href="https://www.facebook.com/wibergtv/" target="_blank"><i class="fa fa-facebook"></i></a></li>
+											<li><a href="https://www.instagram.com/fitnesswiberg/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+										    <li><a href="https://www.youtube.com/c/wibergtv" target="_blank"><i class="fa fa-youtube"></i></a></li>
+
+										</ul>
+									</div>
+
+									<div class="team-content">
+										<h3 class="title">FitnessWiberg</h3>
+										<h4 class="subtitle"></h4>
+										<br>
+										<a href="#" class="twitch-widget1" id="twitch-widget1" target="_blank"></a>
+										<br>
+										<br>
+										<p><a href="">view profile</a></p>
+									</div>
+
+								</div>
+
+							</div>
+
+							</div>
+						</div>
+
+
+				</div>
+				<!-- team members row 2-->
+					<div class="row mb-xlarge" style="background: #1c1c1c;">
+						<div class="team-members">
+							<div class="col-md-3">
+								<div class="team-item">
+									<div class="team-head">
+										<img src="../assets/img/twitch-api/streamers/masesports.jpg" alt="">
+										<ul class="team-socials">
+
+											<li><a href="https://www.twitch.tv/masesports" target="_blank"><i class="fa fa-twitch"></i></a></li>
+											<li><a href="https://twitter.com/masesports" target="_blank"><i class="fa fa-twitter"></i></a></li>
+											<li><a href="https://www.facebook.com/maestrosesports/" target="_blank"><i class="fa fa-facebook"></i></a></li>
+											<li><a href="https://www.instagram.com/maestroesports/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+										    <li><a href="https://www.youtube.com/channel/UCBNlUmKJncDK_t68Ywtwr4A" target="_blank"><i class="fa fa-youtube"></i></a></li>
+										</ul>
+									</div>
+
+									<div class="team-content">
+										<h3 class="title">masesports</h3>
+										<h4 class="subtitle"></h4>
+										<br>
+										<a href="#" class="twitch-widget5" id="twitch-widget5" target="_blank"></a>
+										<br>
+										<br>
+										<p><a href="">view profile</a></p>
+									</div>
+
+								</div>
+
+							</div>
+
+
+<!-- 							<div class="col-md-3">
+								<div class="team-item">
+									<div class="team-head">
+										<img src="../assets/img/twitch-api/streamers/dr.jpeg" alt="">
+										<ul class="team-socials">
+
+											<li><a href="https://www.twitch.tv/drxthebeast" target="_blank"><i class="fa fa-twitch"></i></a></li>
+
+											<li><a href="https://www.facebook.com/Drxthebeast-693445917468212" target="_blank"><i class="fa fa-facebook"></i></a></li>
+
+										</ul>
+									</div>
+
+									<div class="team-content">
+										<h3 class="title">Drxthebeast</h3>
+										<h4 class="subtitle"></h4>
+										<br>
+										<a href="#" class="twitch-widget6" id="twitch-widget6" target="_blank"></a>
+										<br>
+										<br>
+										<p><a href="">view profile</a></p>
+									</div>
+
+								</div>
+
+							</div>
+
+
+							<div class="col-md-3">
+								<div class="team-item">
+									<div class="team-head">
+										<img src="../assets/img/twitch-api/streamers/tsblackii.jpeg" alt="">
+										<ul class="team-socials">
+
+											<li><a href="https://www.twitch.tv/tsblackii" target="_blank"><i class="fa fa-twitch"></i></a></li>
+
+										</ul>
+									</div>
+
+									<div class="team-content">
+										<h3 class="title">tsblackii</h3>
+										<h4 class="subtitle"></h4>
+										<br>
+										<a href="#" class="twitch-widget7" id="twitch-widget7" target="_blank"></a>
+										<br>
+										<br>
+										<p><a href="">view profile</a></p>
+									</div>
+
+								</div>
+
+							</div> -->
+
+
+						</div>
+
+				</div>
+
+
+
+				<!--<iframe style="border: none; margin:0px; width:100%; height:400px;" src="https://www.stanza.co/@masesports?embed=true&banner=true"></iframe> -->
+
+				<!-- /Main Content -->
+				<!-- remove if scroll problem -->
+
+
+
+
+		</div>
+		<!-- /Page main wrapper -->
+		<script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+	<script>
+(function() {
+
+  var user_name, api_key, twitch_widget;
+
+  user_name = "kikidea";
+  api_key = "zargwv5rucxhaqx39j6lwlgf2et434";
+  twitch_widget = $("#twitch-widget");
+
+  twitch_widget.attr("href","https://twitch.tv/" + user_name);
+
+  $.getJSON('https://api.twitch.tv/kraken/streams/' + user_name + '?client_id=' + api_key + '&callback=?', function(data) {
+	  if (data.stream) {
+		  twitch_widget.html("<span class='online'></span> <span class='onlinetext'>Online!</span><br> Playing: " + data.stream.game + "<span class='viewers'><br>Viewers: " + data.stream.viewers + "</span>");
+	  } else {
+		  twitch_widget.html("<span class='offline'></span> <span class='offlinetext'>Offline</span>");
+	  }
+  });
+
+})();
+</script>
+
+<script>
+(function() {
+
+  var user_name, api_key, twitch_widget1;
+
+  user_name = "fitnesswiberg";
+  api_key = "zargwv5rucxhaqx39j6lwlgf2et434";
+  twitch_widget1 = $("#twitch-widget1");
+
+  twitch_widget1.attr("href","https://twitch.tv/" + user_name);
+
+  $.getJSON('https://api.twitch.tv/kraken/streams/' + user_name + '?client_id=' + api_key + '&callback=?', function(data) {
+	  if (data.stream) {
+		  twitch_widget1.html("<span class='online'></span> <span class='onlinetext'>Online!</span><br> Playing: " + data.stream.game + "<span class='viewers'><br>Viewers: " + data.stream.viewers + "</span>");
+	  } else {
+		  twitch_widget1.html("<span class='offline'></span> <span class='offlinetext'>Offline</span>");
+	  }
+  });
+
+})();
+</script>
+
+<script>
+(function() {
+
+  var user_name, api_key, twitch_widget2;
+
+  user_name = "yosoykush";
+  api_key = "zargwv5rucxhaqx39j6lwlgf2et434";
+  twitch_widget2 = $("#twitch-widget2");
+
+  twitch_widget2.attr("href","https://twitch.tv/" + user_name);
+
+  $.getJSON('https://api.twitch.tv/kraken/streams/' + user_name + '?client_id=' + api_key + '&callback=?', function(data) {
+	  if (data.stream) {
+		  twitch_widget2.html("<span class='online'></span> <span class='onlinetext'>Online!</span><br> Playing: " + data.stream.game + "<span class='viewers'><br>Viewers: " + data.stream.viewers + "</span>");
+	  } else {
+		  twitch_widget2.html("<span class='offline'></span> <span class='offlinetext'>Offline</span>");
+	  }
+  });
+
+})();
+</script>
+
+<script>
+(function() {
+
+  var user_name, api_key, twitch_widget3;
+
+  user_name = "bunnypimp";
+  api_key = "zargwv5rucxhaqx39j6lwlgf2et434";
+  twitch_widget3 = $("#twitch-widget3");
+
+  twitch_widget3.attr("href","https://twitch.tv/" + user_name);
+
+  $.getJSON('https://api.twitch.tv/kraken/streams/' + user_name + '?client_id=' + api_key + '&callback=?', function(data) {
+	  if (data.stream) {
+		  twitch_widget3.html("<span class='online'></span><span class='onlinetext'>Online!</span><br> Playing: " + data.stream.game + "<span class='viewers'><br>Viewers: " + data.stream.viewers + "</span>");
+	  } else {
+		  twitch_widget3.html("<span class='offline'></span> <span class='offlinetext'>Offline</span>");
+	  }
+  });
+
+})();
+</script>
+
+<script>
+(function() {
+
+  var user_name, api_key, twitch_widget4;
+
+  user_name = "agis";
+  api_key = "zargwv5rucxhaqx39j6lwlgf2et434";
+  twitch_widget4 = $("#twitch-widget4");
+
+  twitch_widget4.attr("href","https://twitch.tv/" + user_name);
+
+  $.getJSON('https://api.twitch.tv/kraken/streams/' + user_name + '?client_id=' + api_key + '&callback=?', function(data) {
+	  if (data.stream) {
+		  twitch_widget4.html("<span class='online'></span><span class='onlinetext'>Online!</span><br> Playing: " + data.stream.game + "<span class='viewers'><br>Viewers: " + data.stream.viewers + "</span>");
+	  } else {
+		  twitch_widget4.html("<span class='offline'></span> <span class='offlinetext'>Offline</span>");
+	  }
+  });
+
+})();
+</script>
+
+<script>
+(function() {
+
+  var user_name, api_key, twitch_widget5;
+
+  user_name = "masesports";
+  api_key = "zargwv5rucxhaqx39j6lwlgf2et434";
+  twitch_widget5 = $("#twitch-widget5");
+
+  twitch_widget5.attr("href","https://twitch.tv/" + user_name);
+
+  $.getJSON('https://api.twitch.tv/kraken/streams/' + user_name + '?client_id=' + api_key + '&callback=?', function(data) {
+	  if (data.stream) {
+		  twitch_widget5.html("<span class='online'></span><span class='onlinetext'>Online!</span><br> Playing: " + data.stream.game + "<span class='viewers'><br>Viewers: " + data.stream.viewers + "</span>");
+	  } else {
+		  twitch_widget5.html("<span class='offline'></span> <span class='offlinetext'>Offline</span>");
+	  }
+  });
+
+})();
+</script>
+
+<script>
+(function() {
+
+  var user_name, api_key, twitch_widget6;
+
+  user_name = "drxthebeast";
+  api_key = "zargwv5rucxhaqx39j6lwlgf2et434";
+  twitch_widget6 = $("#twitch-widget6");
+
+  twitch_widget6.attr("href","https://twitch.tv/" + user_name);
+
+  $.getJSON('https://api.twitch.tv/kraken/streams/' + user_name + '?client_id=' + api_key + '&callback=?', function(data) {
+	  if (data.stream) {
+		  twitch_widget6.html("<span class='online'></span><span class='onlinetext'>Online!</span><br> Playing: " + data.stream.game + "<span class='viewers'><br>Viewers: " + data.stream.viewers + "</span>");
+	  } else {
+		  twitch_widget6.html("<span class='offline'></span> <span class='offlinetext'>Offline</span>");
+	  }
+  });
+
+})();
+</script>
+
+<script>
+(function() {
+
+  var user_name, api_key, twitch_widget7;
+
+  user_name = "tsblackii";
+  api_key = "zargwv5rucxhaqx39j6lwlgf2et434";
+  twitch_widget7 = $("#twitch-widget7");
+
+  twitch_widget7.attr("href","https://twitch.tv/" + user_name);
+
+  $.getJSON('https://api.twitch.tv/kraken/streams/' + user_name + '?client_id=' + api_key + '&callback=?', function(data) {
+	  if (data.stream) {
+		  twitch_widget7.html("<span class='online'></span><span class='onlinetext'>Online!</span><br> Playing: " + data.stream.game + "<span class='viewers'><br>Viewers: " + data.stream.viewers + "</span>");
+	  } else {
+		  twitch_widget7.html("<span class='offline'></span> <span class='offlinetext'>Offline</span>");
+	  }
+  });
+
+})();
+</script>
+
+		<!-- jquery core -->
+		<script type="text/javascript" src="../assets/js/vendors/jquery-1.11.0.min.js"></script>
+
+		<!-- imagesLoaded jquery plugin -->
+		<script type="text/javascript" src="../assets/js/vendors/imagesloaded.pkgd.min.js"></script>
+
+		<!-- jquery isotop plugin -->
+		<script type="text/javascript" src="../assets/js/vendors/isotope.pkgd.min.js"></script>
+
+		<!-- jquery history neede for ajax pages -->
+		<script type="text/javascript" src="../assets/js/vendors/jquery.history.js"></script>
+
+		<!--  jquery kenburn slider plugin -->
+		<script type="text/javascript" src="../assets/js/jquery.owwwlab-kenburns.js"></script>
+
+		<!-- jquery double carousel plugin -->
+		<script type="text/javascript" src="../assets/js/jquery.owwwlab-DoubleCarousel.js"></script>
+
+		<!--  jquery video background plugin -->
+		<script type="text/javascript" src="../assets/js/jquery.owwwlab-video.js"></script>
+
+		<!--  animation framework -->
+		<script type="text/javascript" src="../assets/js/vendors/TweenMax.min.js"></script>
+
+		<!-- jquery nice scroll plugin needed for vertical portfolio page -->
+		<script type="text/javascript" src="../assets/js/vendors/jquery.nicescroll.min.js"></script>
+
+		<!-- jquery magnific popup needed for ligh-boxes -->
+		<script type="text/javascript" src="../assets/js/vendors/jquery.magnific-popup.js"></script>
+
+		<!-- html5 media player -->
+		<script type="text/javascript" src="../assets/js/vendors/mediaelement-and-player.min.js"></script>
+
+		<!-- jquery inview plugin -->
+		<script type="text/javascript" src="../assets/js/vendors/jquery.inview.min.js"></script>
+
+		<!-- smooth scroll -->
+		<script type="text/javascript" src="../assets/js/vendors/smoothscroll.js"></script>
+
+
+
+		<!-- Master Slider -->
+		<script src="../assets/masterslider/jquery.easing.min.js"></script>
+		<script src="../assets/masterslider/masterslider.min.js"></script>
+
+		<script type="text/javascript" src="../assets/js/custom.js"></script>
+		<script src="https://use.fontawesome.com/e3cc296c20.js"></script>
+
+    <!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//masesports.org/piwik/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', '1']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Piwik Code -->
+
+</body>
+
+
+</html>

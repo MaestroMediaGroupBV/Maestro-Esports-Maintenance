@@ -1,0 +1,30 @@
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+</head>
+<script src="fade.js"></script> 
+<body>
+    <div id="container" class="shadow">
+    <img id="slideimg0" class="slide" src="images/new/kinguin.png">
+	<img id="slideimg1" class="slide" src="images/new/facebook.png">
+	<img id="slideimg2" class="slide" src="images/new/twitter.png">
+	<img id="slideimg3" class="slide" src="images/new/website.png">
+	</div>
+</div>
+</body>
+
+<style>
+#container {position: relative; font-size: 0;}
+.slide {
+    border: none; 
+    opacity: 0; 
+    position: absolute; 
+    top: 0; 
+    left: 0;
+    -webkit-transition: opacity 2s linear;
+    -moz-transition: opacity 2s linear;
+    -o-transition: opacity 2s linear;
+    transition: opacity 2s linear;
+}
+.showMe {opacity: 1;}
+</style>

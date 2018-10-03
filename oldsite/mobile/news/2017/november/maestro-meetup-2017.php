@@ -1,0 +1,309 @@
+<!doctype html>
+<html>
+
+
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+<head>
+        <meta charset="utf-8">
+        <meta name="description" content="	">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="icon" href="../../../assets/img/favicon/favicon.ico">
+        <title>Maestro eSports | Maestro Meetup 2017</title>
+
+		<!-- Google font -->
+
+		<!-- /Google font -->
+
+        <!-- Le styles -->
+        <link rel="stylesheet" href="../../../assets/css/base.css">
+      	<!-- /Le styles -->
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-64970986-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+
+  gtag('config', 'UA-64970986-2');
+</script>
+
+    </head>
+    <body>
+
+		<!-- Start of Async Drift Code -->
+<script>
+!function() {
+  var t;
+  if (t = window.driftt = window.drift = window.driftt || [], !t.init) return t.invoked ? void (window.console && console.error && console.error("Drift snippet included twice.")) : (t.invoked = !0,
+  t.methods = [ "identify", "config", "track", "reset", "debug", "show", "ping", "page", "hide", "off", "on" ],
+  t.factory = function(e) {
+    return function() {
+      var n;
+      return n = Array.prototype.slice.call(arguments), n.unshift(e), t.push(n), t;
+    };
+  }, t.methods.forEach(function(e) {
+    t[e] = t.factory(e);
+  }), t.load = function(t) {
+    var e, n, o, i;
+    e = 3e5, i = Math.ceil(new Date() / e) * e, o = document.createElement("script"),
+    o.type = "text/javascript", o.async = !0, o.crossorigin = "anonymous", o.src = "https://js.driftt.com/include/" + i + "/" + t + ".js",
+    n = document.getElementsByTagName("script")[0], n.parentNode.insertBefore(o, n);
+  });
+}();
+drift.SNIPPET_VERSION = '0.3.1';
+drift.load('xecnffkda8sv');
+</script>
+<!-- End of Async Drift Code -->
+
+	    	<a href="#" id="menu-toggle-wrapper">
+			<div id="menu-toggle"></div>
+		</a>
+
+		<!-- inner bar wrapper -->
+    	<a href="#" id="inner-bar">
+			<!-- Small logo -->
+			<div class="logo-alt">
+				<img src="../../../assets/img/logo-test-logo.png" alt="logo-banner">
+			</div>
+			<!-- /Small logo -->
+		</a>
+		<!-- /inner bar wrapper -->
+
+
+    	<!-- Sidebar -->
+		<div id="side-bar">
+			<div class="inner-wrapper">
+				<div id="side-inner">
+
+					<!-- Logo -->
+					<div id="logo-wrapper">
+						<a href="https://masesports.org"><img src="../../../assets/img/logo/logo.png" alt="logo"></a>
+					</div>
+					<!-- /Logo -->
+
+					<div id="side-contents">
+
+						<!-- Navigation -->
+						<ul id="navigation">
+							<li class="menu-item"><a href="https://masesports.org">Home</a>
+							</li>
+							<li class="menu-item"><a href="../../../rosters">Rosters</a>
+							</li>
+
+							<li class="menu-item"><a href="../../../about">About</a>
+							</li>
+
+							<li class="menu-item"><a href="../../../news/news">News</a>
+							</li>
+
+							<li class="menu-item"><a href="../../../partners">Partners</a>
+							</li>
+
+              <li class="menu-item"><a href="../../../jobs">jobs</a>
+							</li>
+
+              <li class="menu-item"><a href ="https://dombaishop.com/collections/maestro" target="_blank" >Shop</a>
+							</li>
+
+							<li class="menu-item"><a href="../../../gallery">Gallery</a>
+							</li>
+
+							<li class="menu-item"><a href="../../../contact">Contact</a>
+							</li>
+
+
+
+						</ul>
+						<!-- /Navigation -->
+
+					</div>
+
+					<!-- Sidebar footer -->
+					<div id="side-footer">
+						<!-- Social icons -->
+						<ul class="social-icons">
+						    <li><a href="https://www.linkedin.com/company-beta/17951677/"><i class="fa fa-linkedin"></i></a></li>
+							<li><a href="https://www.facebook.com/maestrosesports/"><i class="fa fa-facebook"></i></a></li>
+							<li><a href="https://twitter.com/masesports"><i class="fa fa-twitter"></i></a></li>
+							<li><a href="https://www.instagram.com/maestroesports/"><i class="fa fa-instagram"></i></a></li>
+
+						</ul>
+						<!-- /Social icons -->
+						<div id="copyright">
+							© Copyright 2017. Maestro Esports
+						</div>
+					</div>
+					<!-- /Sidebar footer -->
+
+				</div>
+			</div>
+
+
+		</div>
+		<!-- /Sidebar -->
+
+		<!-- Page main wrapper -->
+		<div id="main-content">
+			<div class="page-wrapper">
+				<div id="blog-single">
+
+				<div class="page-side set-bg inview-animate inview-fadeleft">
+                   <div class="overlay-news">
+                        <img src="../../../assets/img/photography/img6.jpg" alt="alt" class="img-responsive">
+                    </div>
+                        <div class="inner-wrapper vcenter-wrapper">
+                            <div class="side-content vcenter">
+                                <div class="title news">
+                                   <!-- Post Navigation -->
+									<div class="post-nav news">
+										<a href="../news/2017/"><i class="fa fa-angle-left" aria-hidden="true"></i></a>
+
+									</div>
+									<!-- /Post Navigation -->
+                                    <span class="second-part">Mase</span>
+                                    <span>Maestro Meetup 2017</span>
+                                </div>
+                            </div>
+                        </div>
+				</div>
+
+					<div class="container">
+
+						<!-- Post body -->
+						<div id="post-body">
+							<div class="row">
+
+
+								<!-- Post main area -->
+								<div class="col-md-12 col-xs-12">
+
+									<!-- Post Content -->
+									<div id="post-content">
+
+										
+										<p>As Maestro has employees from all over the world, we thought it would be a great idea to hold an annual meetup. It is always an exciting time for us to converse and collaborate in real life. As a collective we decide on a country to visit and enjoy getting to know each other in different environments</p>
+
+										
+                    <p>We always feel this is necessary because it brings us closer together. Maestro meetups consist of eating out, meetings, events and photoshoots. From our gallery you may have seen us at the VR Gamehouse in Amsterdam. The lovely staff at the <a href="http://www.vrgamehouse.nl/" target="_blank"> VR Gamehouse </a> invited us to come and have fun with their specially tailored HTC Vive setups for a more immersive virtual reality experience. It was a brilliant day and we have videos on the way to show you. </p>
+                    <p>Our meetups are designed with team-bonding in mind to bring out the best in the organisation. Rather than book hotels we opt for renting a house or apartment, because after all, we are all gamers. Who needs hotel internet? Ain’t nobody got time fo’ that.</p>
+                    <p>Plans for the next meetup are already underway. Want to be a part of it? Take a look at our open <a href="https://masesports.org/jobs" target="_blank">jobs</a>.</p>
+                    <p>For more pictures take a look at our <a href="https://masesports.org/gallery" target="_blank"/>gallery</a>.
+									</div>
+									<!-- /Post Content -->
+
+								</div>
+								<!-- /Post main area -->
+
+							</div>
+						</div>
+						<!-- /Post body -->
+					</div>
+				</div>
+
+									<!-- siteFooterTop -->
+<footer class="site-footer">
+    <div id="siteFooterTop" class="site-footer-top-section">
+      <div class="container">
+        <div class="site-footer-top-row row">
+          <div class="site-footer-top-col col-sm-8 col-sm-offset-2">
+            <h2 class="section-title">" Winners <b>don't</b> quit. "</h2>
+          </div>
+        </div>
+      </div>
+    </div> 
+	<!-- siteFooterTop -->
+
+    <div id="siteFooterBottom" class="site-footer-bottom-section">
+      <div class="container">
+        <div class="site-footer-bottom-border"></div>
+        <div class="row">
+          <div class="site-footer-bottom-left-col col-md-12">
+            <div class="site-footer-brand">
+             Mase <span>Esports</span>
+            </div>
+
+            <div class="site-footer-bottom-info col-md-6 col-xs-7 pull-left">
+              <ul>
+                <li><a href="privacy-policy">Privacy Policy</a></li>
+                <li><a href="site-map">Site map</a></li>
+                <li><a href="careers">Careers</a></li>
+              </ul>
+            </div>
+            <div class="site-footer-bottom-copyright col-md-6 col-xs-5 pull-right">© Copyright 2017. Maestro Esports</div>
+            <div class="site-footer-desc col-md-6 col-xs-8">
+				Maestro Esports & Maestro, Inc are not associated with Mastercard and Maestro Creditcard. All trademarks, copyrights and logos are owned by their respective owners.
+            </div>
+
+            </script>
+            <div class="site-footer-bottom-copyright col-md-6 col-xs-4"><script language="JavaScript" type="text/javascript">TrustLogo("https://masesports.org/comodo_secure_seal_113x59_transp.png", "CL1", "none");	</script></div>
+        </div>
+      </div>
+    </div> 
+
+	<!-- #siteFooterBottom -->
+
+  </footer>
+
+				</div>
+				<!-- /Page main content-->
+
+
+		<!-- /Page main wrapper -->
+
+		<!-- JavaScript files -->
+
+		<!-- jquery core -->
+		<script type="text/javascript" src="../../../assets/js/vendors/jquery-1.11.0.min.js"></script>
+
+		<!-- imagesLoaded jquery plugin -->
+		<script type="text/javascript" src="../../../assets/js/vendors/imagesloaded.pkgd.min.js"></script>
+
+		<!-- jquery isotop plugin -->
+		<script type="text/javascript" src="../../../assets/js/vendors/isotope.pkgd.min.js"></script>
+
+		<!-- jquery history neede for ajax pages -->
+		<script type="text/javascript" src="../../../assets/js/vendors/jquery.history.js"></script>
+
+		<!-- jquery kenburn slider plugin -->
+		<script type="text/javascript" src="../../../assets/js/jquery.owwwlab-kenburns.js"></script>
+
+		<!-- jquery double carousel plugin -->
+		<script type="text/javascript" src="../../../assets/js/jquery.owwwlab-DoubleCarousel.js"></script>
+
+		<!-- jquery video background plugin -->
+		<script type="text/javascript" src="../../../assets/js/jquery.owwwlab-video.js"></script>
+
+		<!-- tweenmax animation framework -->
+		<script type="text/javascript" src="../../../assets/js/vendors/TweenMax.min.js"></script>
+
+		<!-- jquery nice scroll plugin needed for vertical portfolio page -->
+		<script type="text/javascript" src="../../../assets/js/vendors/jquery.nicescroll.min.js"></script>
+
+		<!-- jquery magnific popup needed for ligh-boxes -->
+		<script type="text/javascript" src="../../../assets/js/vendors/jquery.magnific-popup.js"></script>
+
+		<!-- html5 media player -->
+		<script type="text/javascript" src="../../../assets/js/vendors/mediaelement-and-player.min.js"></script>
+
+		<!-- jquery inview plugin -->
+		<script type="text/javascript" src="../../../assets/js/vendors/jquery.inview.min.js"></script>
+
+		<!-- smooth scroll -->
+		<script type="text/javascript" src="../../../assets/js/vendors/smoothscroll.js"></script>
+
+
+
+		<!-- Master Slider -->
+		<script src="../../../assets/masterslider/jquery.easing.min.js"></script>
+		<script src="../../../assets/masterslider/masterslider.min.js"></script>
+
+		<!-- custom scripts -->
+		<script type="text/javascript" src="../../../assets/js/custom.js"></script>
+
+		<!-- /Javascript files -->
+
+
+    </body>
+
+
+</html>
